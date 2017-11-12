@@ -131,6 +131,7 @@ nav{
     height:38px;
     width: 100%;
     background:#7aa9b3;
+    overflow: hidden;
 }
 .nav-bar li{
     display: inline-block;
